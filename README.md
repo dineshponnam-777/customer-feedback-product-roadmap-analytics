@@ -437,13 +437,15 @@ The final Power BI solution combines customer-feedback analysis, business-impact
 ```text
 customer-feedback-product-roadmap-analytics/
 │
-├── README.md
+├── dashboard/
+│   └── Customer_Feedback_Product_Roadmap_Alignment.pbix
 │
 ├── data/
 │   └── Customer_Feedback_Product_Roadmap_Alignment.xlsx
 │
-├── dashboard/
-│   └── Customer_Feedback_Product_Roadmap_Alignment.pbix
+├── screenshots/
+│   ├── Customer_Voice_Analysis.png
+│   ├── Dashboard_Overview.png
+│   └── Prioritization_Decision_Roadmap.png
 │
-└── screenshots/
-    └── dashboard_overview.png
+└── README.md
